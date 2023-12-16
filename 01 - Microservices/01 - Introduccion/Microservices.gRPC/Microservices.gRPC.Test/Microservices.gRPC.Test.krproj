@@ -1,0 +1,19 @@
+{
+  "id": "748e53cb-6b0c-46e9-886b-83cba22bb54b",
+  "importStreams": [
+    {
+      "id": "50b14120-d8af-4cb2-a1fc-ff5cf496ef18",
+      "name": "test",
+      "importerName": "ProtoFile",
+      "createMissingOperations": true,
+      "options": {
+        "files": [
+          "../Microservices.gRPC.API/Protos"
+        ],
+        "importPaths": []
+      }
+    }
+  ],
+  "authConfigs": [],
+  "certificates": []
+}

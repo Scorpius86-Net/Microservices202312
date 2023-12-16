@@ -1,0 +1,24 @@
+﻿query{
+  products(order: {type:DESC}){
+    id,
+    description,
+    type,
+    productReviews{
+      id,
+      title
+    }
+  }
+}
+
+query{
+  products(where: {id :{eq:1}}){
+    id,
+    description,
+    type,
+    productReviews{
+      id,
+      title,
+      review
+    }
+  }
+}

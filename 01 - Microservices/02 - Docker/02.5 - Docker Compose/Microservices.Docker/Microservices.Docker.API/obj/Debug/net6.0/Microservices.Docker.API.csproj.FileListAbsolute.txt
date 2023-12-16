@@ -1,0 +1,61 @@
+/Microservices.Docker.Api/bin/Debug/net6.0/appsettings.Development.json
+/Microservices.Docker.Api/bin/Debug/net6.0/appsettings.json
+/Microservices.Docker.Api/bin/Debug/net6.0/Microservices.Docker.API
+/Microservices.Docker.Api/bin/Debug/net6.0/Microservices.Docker.API.deps.json
+/Microservices.Docker.Api/bin/Debug/net6.0/Microservices.Docker.API.runtimeconfig.json
+/Microservices.Docker.Api/bin/Debug/net6.0/Microservices.Docker.API.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/Microservices.Docker.API.pdb
+/Microservices.Docker.Api/bin/Debug/net6.0/Faker.Net.6.0.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/de-DE/Faker.Net.6.0.resources.dll
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.csproj.AssemblyReference.cache
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.GeneratedMSBuildEditorConfig.editorconfig
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.AssemblyInfoInputs.cache
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.AssemblyInfo.cs
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.csproj.CoreCompileInputs.cache
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.MvcApplicationPartsAssemblyInfo.cs
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.MvcApplicationPartsAssemblyInfo.cache
+/Microservices.Docker.Api/obj/Debug/net6.0/staticwebassets.build.json
+/Microservices.Docker.Api/obj/Debug/net6.0/staticwebassets.development.json
+/Microservices.Docker.Api/obj/Debug/net6.0/scopedcss/bundle/Microservices.Docker.API.styles.css
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.csproj.CopyComplete
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.dll
+/Microservices.Docker.Api/obj/Debug/net6.0/refint/Microservices.Docker.API.dll
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.pdb
+/Microservices.Docker.Api/obj/Debug/net6.0/Microservices.Docker.API.genruntimeconfig.cache
+/Microservices.Docker.Api/obj/Debug/net6.0/ref/Microservices.Docker.API.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\appsettings.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microservices.Docker.API.exe
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microservices.Docker.API.deps.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microservices.Docker.API.runtimeconfig.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microservices.Docker.API.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microservices.Docker.API.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Faker.Net.6.0.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\MailKit.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\MimeKit.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\de-DE\Faker.Net.6.0.resources.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.csproj.AssemblyReference.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.AssemblyInfoInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.AssemblyInfo.cs
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.csproj.CoreCompileInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\scopedcss\bundle\Microservices.Docker.API.styles.css
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.csproj.CopyComplete
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\refint\Microservices.Docker.API.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\Microservices.Docker.API.genruntimeconfig.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\obj\Debug\net6.0\ref\Microservices.Docker.API.dll

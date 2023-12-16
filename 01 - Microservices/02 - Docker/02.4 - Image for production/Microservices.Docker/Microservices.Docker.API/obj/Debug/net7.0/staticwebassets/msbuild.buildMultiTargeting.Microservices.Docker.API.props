@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Microservices.Docker.API.props" />
+</Project>

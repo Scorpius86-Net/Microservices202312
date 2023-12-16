@@ -1,0 +1,12 @@
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.csproj.AssemblyReference.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.AssemblyInfoInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.AssemblyInfo.cs
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.csproj.CoreCompileInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net6.0\Microservices.GraphQL.Data.deps.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net6.0\Microservices.GraphQL.Data.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net6.0\Microservices.GraphQL.Data.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\refint\Microservices.GraphQL.Data.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\Microservices.GraphQL.Data.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net6.0\ref\Microservices.GraphQL.Data.dll

@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "product.Products.Update"
+  },
+  "requests": [
+    {
+      "location": "Update-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

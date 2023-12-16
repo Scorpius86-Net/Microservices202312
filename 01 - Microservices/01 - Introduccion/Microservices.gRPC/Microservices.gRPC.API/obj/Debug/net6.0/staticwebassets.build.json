@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cbZujk/tWye9jzNE4qMT0I5Zw8gnnx60+rwHcxciY1M=",
+  "Source": "Microservices.gRPC.API",
+  "BasePath": "_content/Microservices.gRPC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

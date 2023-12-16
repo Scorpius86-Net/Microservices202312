@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g5EGn42FeAllpO+JaHwQswMaakvpvPmsiu+MgKGpn5g=",
+  "Source": "Microservices.SOA.Service",
+  "BasePath": "_content/Microservices.SOA.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

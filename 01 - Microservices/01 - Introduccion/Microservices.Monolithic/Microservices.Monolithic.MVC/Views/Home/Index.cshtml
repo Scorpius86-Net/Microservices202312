@@ -1,0 +1,11 @@
+﻿@model Microservices.Monolithic.MVC.Models.Order
+
+<h2>Por favor ingrese su solicitud de entrega</h2>
+@using (Html.BeginForm())
+{
+    <fieldset>
+        @Html.EditorForModel()
+    </fieldset>
+    <br />
+    <button type="submit">Submit</button>
+}

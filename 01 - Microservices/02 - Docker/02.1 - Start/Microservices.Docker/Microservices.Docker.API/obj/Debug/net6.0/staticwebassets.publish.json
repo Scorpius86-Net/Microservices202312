@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7ETCHc/CL5pf3sW0KZO+MPs+JU7nFEll2KOLyMZ7Dok=",
+  "Source": "Microservices.Docker.API",
+  "BasePath": "_content/Microservices.Docker.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

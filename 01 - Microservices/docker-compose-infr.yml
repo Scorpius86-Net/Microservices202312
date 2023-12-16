@@ -1,0 +1,19 @@
+version: '3.4'
+
+services:
+########################################################## microservices.demo.policy.db ##################################################################################
+  sqlserver2019:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+       - 1433:1433 
+    environment:
+      - SA_PASSWORD=Password1234
+      - ACCEPT_EULA=Y
+    networks:
+      - backend
+########################################################## networks #######################################################################################################
+networks:
+  backend:
+    name: backend
+    driver: bridge
+

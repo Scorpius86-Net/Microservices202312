@@ -1,0 +1,12 @@
+{
+  "details": {
+    "methodFqn": "product.Products.List"
+  },
+  "requests": [
+    {
+      "location": "List-request.json"
+    }
+  ],
+  "operationType": "unary",
+  "invokerName": "grpc"
+}

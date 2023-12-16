@@ -1,0 +1,65 @@
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\appsettings.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.exe
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.deps.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.runtimeconfig.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.AssemblyReference.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.AssemblyInfoInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.AssemblyInfo.cs
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.CoreCompileInputs.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.Microservices.SOA.Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Microservices.SOA.Service.props
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Microservices.SOA.Service.props
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Microservices.SOA.Service.props
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\scopedcss\bundle\Microservices.SOA.Service.styles.css
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.CopyComplete
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\refint\Microservices.SOA.Service.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.genruntimeconfig.cache
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\ref\Microservices.SOA.Service.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\appsettings.Development.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\appsettings.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.exe
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.deps.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.runtimeconfig.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microservices.SOA.Service.pdb
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.AssemblyReference.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.AssemblyInfo.cs
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.Microservices.SOA.Service.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.build.Microservices.SOA.Service.props
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Microservices.SOA.Service.props
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Microservices.SOA.Service.props
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.pack.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.build.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\staticwebassets.development.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\scopedcss\bundle\Microservices.SOA.Service.styles.css
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.csproj.CopyComplete
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\refint\Microservices.SOA.Service.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.pdb
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\Microservices.SOA.Service.genruntimeconfig.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.SOA\Microservices.SOA.Service\obj\Debug\net7.0\ref\Microservices.SOA.Service.dll

@@ -1,0 +1,46 @@
+syntax = "proto3";
+
+option csharp_namespace = "Microservices.gRPC.API.Protos";
+
+package product;
+
+service Products {
+  rpc List (Empty) returns (ListResponse);
+  rpc GetById (GetByIdRequest) returns (GetByIdResponse);
+  rpc Insert (InsertRequest) returns (Empty);
+  rpc Update (UpdateRequest) returns (Empty);
+  rpc Delete (DeleteRequest) returns (Empty);
+}
+
+message Empty {
+}
+
+message ProductDto {
+  int32 Id = 1;
+  string Name = 2;
+  string Description = 3;  
+}
+
+message GetByIdRequest{
+	int32 Id = 1;
+}
+message GetByIdResponse {
+  ProductDto Product =1; 
+}
+
+message ListResponse{
+	repeated ProductDto Products =1;
+}
+
+message InsertRequest{
+	ProductDto Product =1;
+}
+
+message UpdateRequest{
+	ProductDto Product =1;
+}
+
+message DeleteRequest{
+	ProductDto Product =1;
+}
+

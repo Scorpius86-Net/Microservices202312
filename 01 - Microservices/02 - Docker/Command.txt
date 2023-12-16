@@ -1,0 +1,200 @@
+======
+Docker
+======
+
+Micorservices.Docker 02.1 - Start
+---------------------------------
+
+https://hub.docker.com/_/microsoft-dotnet-core-runtime/
+
+- Run image Net 6
+docker run --rm -it mcr.microsoft.com/dotnet/runtime:6.0
+docker run --rm -it mcr.microsoft.com/dotnet/runtime:6.0 dotnet
+docker run --rm -it mcr.microsoft.com/dotnet/runtime:6.0 dotnet --info
+
+- Run Api in container from volume
+# Go to "02.1 - Start\Microservices.Docker" folder
+docker run --rm -it -v ${PWD}:"/Microservices.Docker.Api" mcr.microsoft.com/dotnet/runtime:6.0
+#   ls -al
+#   cd Microservices.Docker.Api/
+#   echo HELLO > world.txt
+#   rm world.txt
+#   exit
+dotnet publish
+dotnet .\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.dll
+
+- Run Api from container
+docker run --rm -it -v ${PWD}:"/Microservices.Docker.Api" mcr.microsoft.com/dotnet/aspnet:6.0
+#   ls -al
+#   cd Microservices.Docker.Api/
+#   dotnet Microservices.Docker.API/bin/Debug/net6.0/publish/Microservices.Docker.API.dll
+#Open other console
+docker ps
+docker inspect 4a6d4e14bd8b
+172.24.188.159
+
+- Run Api and access from host
+docker run --rm -it -v ${PWD}:"/Microservices.Docker.Api" -p 8085:80 mcr.microsoft.com/dotnet/aspnet:6.0
+#   ls -al
+#   cd Microservices.Docker.Api/
+#   dotnet Microservices.Docker.API/bin/Debug/net6.0/publish/Microservices.Docker.API.dll
+#Go to http://localhost:8085/swagger/
+#   exit
+
+- inspect image
+docker run --rm weshigbee/manifest-tool
+docker run --rm weshigbee/manifest-tool inspect mcr.microsoft.com/dotnet/runtime:6.0
+
+
+Micorservices.Docker 02.2 - Dockerfile
+--------------------------------------
+
+- Build Api
+# Go to "02.2 - Dockerfile\Microservices.Docker\Microservices.Docker.API\" folder
+dotnet publish
+#(Generar Docker file)
+
+- Configure variables
+$sufix="microserviceseac"
+$rg="rg-$sufix"
+$acr="acr$sufix"
+$acrserver = "$acr.azurecr.io"
+
+- Build docker image
+docker build -t "$acrserver/generator" .
+docker image ls
+docker run --rm -it -p 8085:80 "$acrserver/generator"
+#Go to http://localhost:8085/swagger/
+
+- Create Azure registry
+az login
+az group create --name $rg --location eastus
+az acr create --resource-group $rg --name $acr --sku Basic
+az acr login --name $acr
+
+- Run image from azure
+docker push "$acrserver/generator"
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+docker rmi $(docker images -a -q) -f
+docker images
+docker run --rm -it -p 8085:80 "$acrserver/generator"
+#Go to http://localhost:8085/swagger/
+#CTRL+C
+docker build -t "$acrserver/generator" --rm=false --no-cache .
+docker push "$acrserver/generator"
+docker inspect "$acrserver/generator"
+
+- Manual build api from container
+docker run --rm -it -v ${PWD}:"/Microservices.Docker.Api" -p 8085:80 --name generator mcr.microsoft.com/dotnet/sdk:6.0
+#   ls -al
+#   cd Microservices.Docker.Api/
+#   dotnet --info
+#   dotnet help
+#   rm -rf bin/ obj/
+#   dotnet restore
+#   dotnet build
+#   dotnet publish
+#   dotnet dev-certs https
+#   dotnet run
+#in other console instance 
+docker exec -it generator /bin/bash
+#   curl -L -k localhost:5235/swagger/v1/swagger.json
+#Exit consoles
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+
+- Manual build api from container with port
+# Go to "02.2 - Dockerfile\Microservices.Docker\Microservices.Docker.API\" folder
+docker run --rm -it -v ${PWD}:"/Microservices.Docker.Api" -p 8085:80 mcr.microsoft.com/dotnet/sdk:6.0
+#   export ASPNETCORE_URLS=http://+:80
+#   ls -al
+#   cd Microservices.Docker.Api/
+#   dotnet restore
+#   dotnet build
+#   dotnet bin/Debug/net6.0/Microservices.Docker.API.dll
+#Go to http://localhost:8085/swagger/
+#Exit console
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+
+
+Micorservices.Docker 02.3 - Build Stage
+---------------------------------------
+
+- Configure variables
+$sufix="microserviceseac"
+$rg="rg-$sufix"
+$acr="acr$sufix"
+$acrserver = "$acr.azurecr.io"
+
+- Build image
+# Go to "02.3 - Build Stage\Microservices.Docker\Microservices.Docker.API\" folder
+docker build -t "$acrserver/generator:build" .
+docker images
+docker run --rm -it -p 8085:80 -p 8086:443 "$acrserver/generator:build"
+#Go to https://localhost:8086/swagger/
+#Exit console
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+
+
+Micorservices.Docker 02.4 - Image for production
+------------------------------------------------
+
+- Configure variables
+$sufix="microserviceseac"
+$rg="rg-$sufix"
+$acr="acr$sufix"
+$acrserver = "$acr.azurecr.io"
+
+- Build image
+# Go to "02.4 - Image for production\Microservices.Docker\Microservices.Docker.API\" folder
+docker image ls "$acrserver/generator"
+docker build --rm=false --no-cache -t "$acrserver/generator:1.0.0.0" .
+docker image ls "$acrserver/generator"
+docker run --rm -it -p 8085:80 "$acrserver/generator:1.0.0.0"
+#Go to http://localhost:8085/swagger/
+#Exit console
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+
+
+Micorservices.Docker 02.5 - Docker Compose
+------------------------------------------
+
+- Configure variables
+$sufix="microserviceseac"
+$rg="rg-$sufix"
+$acr="acr$sufix"
+$acrserver = "$acr.azurecr.io"
+
+- Run Api
+# Go to "02.5 - Docker Compose\Microservices.Docker\Microservices.Docker.API\" folder
+docker build --rm=false -t "$acrserver/generator:1.0.0.1" .
+docker-compose h
+docker-compose up
+#Go to http://localhost:8025
+#Go to http://localhost:8085
+#CTRL+C
+
+- Run Api (daemon)
+docker build --rm=false -t "$acrserver/generator:1.0.0.1" .
+docker-compose up -d
+docker ps
+docker-compose logs
+#Go to http://localhost:8025
+#Go to http://localhost:8085
+docker-compose down
+
+- Docker compose Build
+docker stop $(docker ps -a -q) -f
+docker rm $(docker ps -a -q) -f
+docker rmi $(docker images -a -q) -f
+docker ps
+docker image ls
+docker-compose up -d --build
+#Go to http://localhost:8025
+#Go to http://localhost:8085
+docker-compose down
+docker images

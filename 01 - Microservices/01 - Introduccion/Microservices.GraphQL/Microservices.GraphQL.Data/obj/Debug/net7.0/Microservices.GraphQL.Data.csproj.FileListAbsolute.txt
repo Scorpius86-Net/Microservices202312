@@ -1,0 +1,12 @@
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net7.0\Microservices.GraphQL.Data.deps.json
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net7.0\Microservices.GraphQL.Data.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\bin\Debug\net7.0\Microservices.GraphQL.Data.pdb
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.csproj.AssemblyReference.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.AssemblyInfoInputs.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.AssemblyInfo.cs
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.csproj.CoreCompileInputs.cache
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\refint\Microservices.GraphQL.Data.dll
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\Microservices.GraphQL.Data.pdb
+D:\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\01 - Introduccion\Microservices.GraphQL\Microservices.GraphQL.Data\obj\Debug\net7.0\ref\Microservices.GraphQL.Data.dll

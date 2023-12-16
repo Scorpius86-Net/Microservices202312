@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "I+U79v5cpJ2gDmKcXzXrQ+VIIacpCeB2tc6UgsA4KFo=",
+  "Source": "Microservices.GraphQL.API",
+  "BasePath": "_content/Microservices.GraphQL.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

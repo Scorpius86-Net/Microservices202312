@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJFHSE8xe+rb4qmBDHwHlSRuL5j+YhxNZ7nXObbL7m0cN2cwcIqKQ/j6WVq4Ef3kZmZDC+6yfyId2ztgvQA5Gg==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scorp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

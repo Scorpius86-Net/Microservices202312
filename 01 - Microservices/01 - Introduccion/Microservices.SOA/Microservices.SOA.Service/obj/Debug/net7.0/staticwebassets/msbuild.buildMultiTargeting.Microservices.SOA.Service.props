@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Microservices.SOA.Service.props" />
+</Project>

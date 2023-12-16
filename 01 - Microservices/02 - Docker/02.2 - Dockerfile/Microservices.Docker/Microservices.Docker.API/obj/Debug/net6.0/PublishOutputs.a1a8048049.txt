@@ -1,0 +1,13 @@
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microservices.Docker.API
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/appsettings.Development.json
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/appsettings.json
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microservices.Docker.API.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microservices.Docker.API.deps.json
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microservices.Docker.API.runtimeconfig.json
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microservices.Docker.API.pdb
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Faker.Net.6.0.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Microsoft.OpenApi.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Microservices.Docker.Api/bin/Debug/net6.0/publish/de-DE/Faker.Net.6.0.resources.dll

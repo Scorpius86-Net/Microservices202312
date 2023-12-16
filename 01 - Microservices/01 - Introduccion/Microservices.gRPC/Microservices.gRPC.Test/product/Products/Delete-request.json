@@ -1,0 +1,7 @@
+{
+  "Product": {
+    "Id": 490,
+    "Name": "{{ faker.name.last_name }}",
+    "Description": "hard drive Avon"
+  }
+}

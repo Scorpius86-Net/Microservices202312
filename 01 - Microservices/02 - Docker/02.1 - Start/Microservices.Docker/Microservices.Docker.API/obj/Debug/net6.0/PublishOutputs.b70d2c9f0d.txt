@@ -1,0 +1,13 @@
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.exe
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.deps.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.runtimeconfig.json
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microservices.Docker.API.pdb
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Faker.Net.6.0.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\scorp\OneDrive\Galaxy\Microservices\v.2.0\01 - Microservices\02 - Docker\02.1\Microservices.Docker\Microservices.Docker.API\bin\Debug\net6.0\publish\de-DE\Faker.Net.6.0.resources.dll
