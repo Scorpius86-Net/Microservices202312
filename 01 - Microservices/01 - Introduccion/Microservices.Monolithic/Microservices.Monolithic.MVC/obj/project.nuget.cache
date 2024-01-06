@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GoKLcTaNweDXj0OLa4mgnj2wRDXCfzQ1oAuKonrI2x+QmbGYeIP/Q9HDTbIkGTbNPrC3JewOBItdqfe5c9IRJw==",
+  "dgSpecHash": "qy1QgUKBXmvie43mdU666da8uqf7K8EgruCzWIxYyXotR0wRJOlNLXSO2b5x7l3SwC1RlI6z9ShExPZlUgiGhQ==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.Monolithic\\Microservices.Monolithic.MVC\\Microservices.Monolithic.MVC.csproj",
+  "projectFilePath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.Monolithic\\Microservices.Monolithic.MVC\\Microservices.Monolithic.MVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

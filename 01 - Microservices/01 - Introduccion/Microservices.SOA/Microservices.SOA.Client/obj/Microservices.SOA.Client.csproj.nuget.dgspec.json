@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj": {}
+    "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj": {
+    "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj",
+        "projectUniqueName": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj",
         "projectName": "Microservices.SOA.Client",
-        "projectPath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj",
+        "projectPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\Microservices.SOA.Client.csproj",
         "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\obj\\",
+        "outputPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

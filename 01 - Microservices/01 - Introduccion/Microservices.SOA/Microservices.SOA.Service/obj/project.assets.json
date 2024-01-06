@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\Microservices.SOA.Service.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\Microservices.SOA.Service.csproj",
       "projectName": "Microservices.SOA.Service",
-      "projectPath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\Microservices.SOA.Service.csproj",
+      "projectPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\Microservices.SOA.Service.csproj",
       "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\obj\\",
+      "outputPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.SOA\\Microservices.SOA.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -495,7 +495,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -733,11 +733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scorp\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\Microservices.gRPC.Client.MVC.csproj",
+      "projectUniqueName": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\Microservices.gRPC.Client.MVC.csproj",
       "projectName": "Microservices.gRPC.Client.MVC",
-      "projectPath": "C:\\Users\\scorp\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\Microservices.gRPC.Client.MVC.csproj",
+      "projectPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\Microservices.gRPC.Client.MVC.csproj",
       "packagesPath": "C:\\Users\\scorp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scorp\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\obj\\",
+      "outputPath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.Client.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -800,7 +800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

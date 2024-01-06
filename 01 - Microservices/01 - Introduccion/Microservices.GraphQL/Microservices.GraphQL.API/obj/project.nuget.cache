@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FPYheD5yy37RgNoi9wHLVrQ4UM+Beju2JE4KbM03PLMUxoVAhxqABXc3pBRdjfWFyjZCc9HnZgaAtc5bf9pMGQ==",
+  "dgSpecHash": "79wTPE6fpLpiufbcvOZtQbGOP/eaBNx6JK8WtuC0cAGXqLFm77gkHq6pxhsNKB43Vv9GuNKWl4GT4mJlTGWZuw==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.GraphQL\\Microservices.GraphQL.API\\Microservices.GraphQL.API.csproj",
+  "projectFilePath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.GraphQL\\Microservices.GraphQL.API\\Microservices.GraphQL.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scorp\\.nuget\\packages\\greendonut\\12.14.0\\greendonut.12.14.0.nupkg.sha512",
     "C:\\Users\\scorp\\.nuget\\packages\\hotchocolate\\12.14.0\\hotchocolate.12.14.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wy1zs4L34POtSYqukfcO+Iee6mw6SHe0nozzFlgLz5p1Ojb5woqJDZETwWth4ChD3CmnJtVcc8wEtpVT0fnYLg==",
+  "dgSpecHash": "YyO1v6w4ZIhsdX87YKmF9DDskrn3i8nxANS+o30wIL7R5zF/VzkbjvsfZwJ67hf0Z4/nsc+uxjpn/fytXR7J3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scorp\\OneDrive\\Galaxy\\Microservices\\v.2.0\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.API\\Microservices.gRPC.API.csproj",
+  "projectFilePath": "D:\\GitHub\\Microservices202312\\01 - Microservices\\01 - Introduccion\\Microservices.gRPC\\Microservices.gRPC.API\\Microservices.gRPC.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scorp\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\scorp\\.nuget\\packages\\grpc.aspnetcore\\2.48.0\\grpc.aspnetcore.2.48.0.nupkg.sha512",
